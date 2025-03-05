@@ -2,13 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&color=fcff33&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile!;I+am+a+Data+Science+Enthusiast;Passionate+About+AI+and+Machine+Learning;Focusing+on+Innovative+Solutions+to+Real-World+Problems;Let's+Build+Something+Impactful+Together!" />  
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="image" />
-</p>
-
 <h1 align="center">Hi there! 👋 I'm Deepthee S</h1>  
 <p align="center">  
-  <em>Data Science Enthusiast | Transforming Data into Insights 💡</em>  
+  <em>Data Science Professional | Transforming Data into Insights 💡</em>  
 </p>  
 
 <p align="center">
@@ -24,7 +20,7 @@
 ## 🌟 **About Me**  
 
 ✨ **Who Am I?**  
-I'm a passionate **Data Scientist**, dedicated to leveraging data-driven solutions to solve real-world problems. My expertise lies in uncovering insights through **Machine Learning**, **Data Visualization**, and advanced analytics.
+Data Science professional with expertise in Python, SQL, machine learning, and deep learning. Proficient in PyTorch, NumPy, and Pandas for developing predictive models and deploying architectures like Transformers, CNNs, and LSTMs. Skilled in creating interactive dashboards and leveraging advanced tools to extract insights and deliver scalable, data-driven solutions.
 
 ✨ **Quick Facts:**  
 - 🔭 Currently exploring **Gene Expression Analysis** and **Association Rule Mining**.  
@@ -33,90 +29,74 @@ I'm a passionate **Data Scientist**, dedicated to leveraging data-driven solutio
 
 ---
 
-🚀 **Skills**
-- Languages: Python, SQL  
-- Tools: PowerBI, Tableau, Excel  
-- Frameworks: Pandas, NumPy, Matplotlib, TensorFlow, Scikit-learn  
-- Platforms: Jupyter Notebook, Visual Studio Code  
+🚀 **Technical Skills**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+- **Programming Languages:** Python, Java (Basic), SQL  
+- **Machine Learning:** TensorFlow, PyTorch, Keras, Scikit-learn, Transformers, CNNs, LSTMs, GANs, AutoEncoders, Reinforcement Learning  
+- **NLP:** HuggingFace Transformers, BERT, GPT, OpenCV  
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Google Data Studio, Power BI, Tableau  
+- **Development Tools:** Docker, Git, PostgreSQL, MongoDB  
+- **Web Development:** Django, FastAPI, REST APIs  
+- **Other:** Jupyter Notebooks, Streamlit, VS Code  
 
 ----
 
-## 🔧 **Technical Toolbox**  
+## 🚀 **Projects in Action**  
 
-<table align="center"> 
-  <tr> 
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48px" alt="Python" /></td> 
-    <td align="center"><img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="48px" alt="Django" /></td> 
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48px" alt="TensorFlow" /></td> 
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48px" alt="SQL" /></td> 
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48px" alt="Pandas" /></td>  
-  </tr> 
-  <tr> 
-    <td align="center">Python</td> 
-    <td align="center">Django</td> 
-    <td align="center">TensorFlow</td> 
-    <td align="center">SQL</td> 
-    <td align="center">Pandas</td> 
-  </tr> 
-  <tr> 
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48px" alt="Jupyter Notebook" /></td> 
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48px" alt="Power BI" /></td> 
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="48px" alt="Excel" /></td> 
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48px" alt="Matplotlib" /></td> 
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48px" alt="NumPy" /></td> 
-  </tr> 
-  <tr> 
-    <td align="center">Jupyter Notebook</td> 
-    <td align="center">Power BI</td> 
-    <td align="center">Excel</td> 
-    <td align="center">Matplotlib</td> 
-    <td align="center">NumPy</td> 
-  </tr> 
-</table>
+### **1. ML-TSE for CO2 | Machine Learning-Based Time Series Models for Effective CO2 Emission Prediction in India**  
+- A machine learning-based system designed to predict CO2 emissions in India using time series models, empowering policymakers and researchers to address environmental challenges.  
+- Combines statistical models (ARIMA, SARIMAX, Holt-Winters) with deep learning techniques (LSTM), where LSTM emerged as the most accurate model, reducing prediction errors by 90% compared to ARIMA.  
+- Processed a 40-year dataset (1980–2019) from CAIT (WRI), addressing missing values and data inconsistencies with advanced preprocessing techniques.  
+- Evaluated using nine metrics, including MSE, RMSE, and R2 Score, where LSTM demonstrated superior accuracy in capturing non-linear temporal trends and seasonality.  
+- Plans include integrating exogenous variables (e.g., population growth, policy changes), expanding forecasts to multiple sectors/regions, and exploring hybrid models combining LSTM and Transformers for greater accuracy.  
+- **Technologies Used:** Python, TensorFlow, PyTorch.  
+
+### **2. ARM-Kp-GED | Association Rule Mining in Klebsiella pneumoniae Using Gene Expression Data**  
+- To uncover significant gene associations and their roles in antimicrobial resistance (AMR) by analyzing Klebsiella pneumoniae gene expression data using association rule mining.  
+- The dataset was collected from the NCBI Gene Expression Omnibus (GEO), consisting of 1,414 genes across 54 samples under various stress conditions and antibiotic exposures.  
+- Data preprocessing involved cleaning raw data, normalizing it using the DESeq2 package, and converting gene expression levels into a binary format for compatibility with the Apriori algorithm.  
+- The Apriori algorithm was used to identify frequent gene co-expression patterns, generating 418,173 association rules, which were filtered to 59 meaningful rules based on a lift value > 2.  
+- Discovered strong associations between genes, such as ompC → cirA and tonB → entF, linked to potential AMR mechanisms.  
+- Results were validated using the Comprehensive Antibiotic Resistance Database (CARD) and STRING database, confirming two antibiotic resistance genes (ompC and tonB) and uncovering significant protein-protein interactions.  
+- This study provides insights into the genetic basis of multidrug resistance in Klebsiella pneumoniae, highlighting novel and known gene interactions. It opens pathways for targeted interventions against AMR and contributes to genomic research in bacterial pathogens.  
+- **Technologies Used:** Python, DESeq2, STRING, CARD  
 
 ---
 
 ## 📚 **Education**  
 
 🎓 **SASTRA University** (2023 - Present)  
-- Master of Science in Data Science | GPA: 8.02  
+- Master of Science in Data Science | Current CGPA: 8.02  
 
 🎓 **Bon Secours College for Women** (2020 - 2022)  
-- Bachelor of Science in Computer Science | GPA: 9.0  
+- Bachelor of Science in Computer Science | CGPA: 9.00  
 
 ---
 
-## 🚀 **Projects in Action**  
+## 🏆 **Workshops & Certifications**  
 
-### **1. Machine Learning-Based CO2 Emission Prediction**  
-- Developed time series models (*ARIMA, Prophet, LSTM*) achieving 92% accuracy.  
-- Conducted extensive data preprocessing and feature engineering to enhance model performance.  
-- Delivered actionable insights to guide environmental policies using Python and visualization tools.  
+### **Workshops:**  
+- Attended a Two-Day Hands-On Workshop on Clinical Data Analysis organized by DBT Bioinformatics Center, SASTRA University in collaboration with Clinosol Research Pvt. Ltd.  
+- Gained practical experience in data preprocessing, statistical analysis, and clinical trial data interpretation using industry-standard tools.  
+- Enhanced understanding of clinical research methodologies and their applications in drug development and regulatory compliance.  
 
-### **2. Association Rule Mining in Klebsiella pneumoniae**  
-- Analyzed gene expression data to uncover significant relationships related to **AMR (Antimicrobial Resistance)**.  
-- Applied the Apriori algorithm to discover critical interactions among genes (*ompC*, *tonB*).  
-- Created network visualizations to illustrate gene interaction pathways, offering insights into potential therapeutic targets.  
-
----
-
-## 🏆 **Certifications**  
-
-<ul>
-  <li>TCS iON Career Edge - Young Professional Course</li>
-  <li>Hands-On Workshop on Clinical Data Analysis (SASTRA University & Clinosol Research Pvt Ltd)</li>
-</ul>
-
----
-
-## 📈 GitHub Stats
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepthee03&theme=radical&hide_border=true" alt="GitHub Streak" /> 
-  <br /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=deepthee03&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> 
-  <br /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepthee03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> 
-</p>
+### **Certifications:**  
+- **TCS iON Career Edge - Young Professional Course**  
+  - Completed the TCS iON Career Edge - Young Professional Course organized by TCS iON, Tata Consultancy Services, Chennai, focused on enhancing professional skills.  
+  - Gained expertise in time management, effective communication, problem-solving, and digital literacy.  
 
 ---
 
